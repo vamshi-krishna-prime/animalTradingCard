@@ -1,0 +1,57 @@
+.card{
+  border-style: solid;
+  border-color: lightgrey;
+  border-radius: 5px;
+  border-width: 5px;
+  padding:0px;
+  width:320px;
+  background-color: #243039;
+  box-shadow: 10px 10px 4px -1px rgba(209,209,209,0.74);
+}
+.heading{
+  margin: 10px 10px 5px 10px;
+  font-family: Helvetica,sans-serif;
+  color: lightgrey;
+  text-align: center;
+}
+.image{
+  padding: 0px;
+  border: 0px;
+  margin: 5px 10px 5px 10px;
+  width: 300px;
+}
+.information{
+  border-style: solid;
+  border-color: #243039;
+  border-radius: 5px;
+  border-width: 1px;
+  background-color: #58646d;
+  width: 298px;
+  padding: 0px;
+  margin: 5px 10px 10px 10px;
+}
+.interestingfact{
+  font: italic 12pt Palatino,sans-serif;
+  text-align: justify;
+  color: lightgrey;
+  padding : 0px;
+  border: 0px;
+  margin: 10px;
+}
+.list{
+  list-style-type: none;
+  padding : 0px;
+  border: 0px;
+  margin: 10px;
+  font-family: Times ,sans-serif;
+}
+ul span{
+  font-weight: bold;
+}
+.description{
+  padding : 0px;
+  border: 0px;
+  margin: 10px;
+  text-align: justify;
+  font-family: Palatino,sans-serif;
+}
